@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PloomesAPI", "PloomesAPI\PloomesAPI.csproj", "{1B3A682D-3880-49C7-94B1-37F0A4F2DE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3A682D-3880-49C7-94B1-37F0A4F2DE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3A682D-3880-49C7-94B1-37F0A4F2DE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3A682D-3880-49C7-94B1-37F0A4F2DE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3A682D-3880-49C7-94B1-37F0A4F2DE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D207A7-02B6-42C0-87F5-D1633AB61370}
+	EndGlobalSection
+EndGlobal
